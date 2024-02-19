@@ -1,45 +1,30 @@
-<h2>You can check the complete working of this project on my YouTube Channel video :</h2>
-<p align="center">
-<a href="https://youtu.be/-jGGaTpWYAU" target="_blank"><h3>Click here</h3><img src = "https://github.com/Noor-Ahmed-12/Blood-Donation-bank-Management-System/blob/main/blood%20donation%20project%20with%20database.png"></a>
-</p>
-	
-  <h1>Blood Donation Bank Management System</h1>
-	<p>This is a web-based Blood Donation Bank Management System project developed using HTML, CSS, JS, PHP, and MySQL.</p>
-<h2>Features</h2>
-<ul>
-	<li>User registration and login system</li>
-	<li>Donor and recipient management</li>
-	<li>Donation and blood request management</li>
-	<li>Admin dashboard for managing users, donors, recipients, donations, and blood requests.</li>
-</ul>
+# Blood Bank Project
 
-<h2>Prerequisites</h2>
-<p>To run the project, you will need the following software installed on your machine:</p>
-<ul>
-	<li>XAMPP (or any other local web server stack)</li>
-	<li>PHP 7.4 or higher</li>
-	<li>MySQL 5.7 or higher</li>
-</ul>
+This is a web-based blood bank system developed using PHP, JavaScript, HTML, and CSS.
 
-<h2>Installation</h2>
-<ol>
-	<li>Download or clone the project repository to your local machine.</li>
-	<li>Copy the downloaded project to the htdocs folder in your XAMPP installation directory (e.g., C:\xampp\htdocs).</li>
-	<li>Rename the downloaded project folder to <code>bdbms</code>. This will be the name of your project's root directory.</li>
-	<li>Open XAMPP and start Apache and MySQL.</li>
-	<li>Open a web browser and enter the following URL in the address bar: <code>http://localhost/bdbms/</code>.</li>
-</ol>
+## Description
 
-<h2>Importing the Database</h2>
-<p>The database for this project has been created using phpMyAdmin. To import the database, follow these steps:</p>
-<ol>
-	<li>Open phpMyAdmin in your web browser by entering the following URL: <code>http://localhost/phpmyadmin/</code>.</li>
-	<li>Click on the "Import" tab in the top menu.</li>
-	<li>Click on the "Choose File" button and select the <code>bdbms.sql</code> file from the downloaded project.</li>
-	<li>Click on the "Go" button to import the database.</li>
-</ol>
+The Blood Bank Project is aimed at managing blood donations, donors, and requests efficiently. It allows users to register as blood donors, make blood requests, and manage these requests. The system helps in maintaining a database of available blood types and donors, making it easier to match blood requests with suitable donors.
 
-<h2>Credits</h2>
-<p>This project was developed as part of the Web Engineering course at XYZ University by [Your Name].</p>
+## Features
 
-<p><strong>Note:</strong> If you encounter any issues while running the project or importing the database, please feel free to raise an issue in the GitHub repository. We would be happy to help you out!</p></html>
+- User registration and authentication for both donors and blood requesters
+- Donor management: Add, update, and delete donor profiles
+- Blood request management: Create, update, and delete blood requests
+- Blood type management: Add, update, and delete blood types
+- Search functionality to find donors by blood type, location, etc.
+- Responsive design for seamless usage across devices
+
+## Technologies Used
+
+- PHP: Backend scripting language for server-side logic
+- JavaScript: Client-side scripting language for dynamic functionality
+- HTML: Markup language for creating web pages
+- CSS: Styling language for enhancing the presentation of web pages
+
+## Usage
+- Register as a blood donor or requester using the provided forms.
+- Log in to your account.
+- Add or manage donor profiles or blood requests as needed.
+- Search for donors based on blood type, location, etc.
+- Update or delete donor profiles or blood requests when necessary.
