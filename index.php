@@ -65,9 +65,11 @@ include('includes/config.php');
 						<div class="banner-info_agile_w3ls">
 							<div class="container">
 								<h3>
-									<span>Every drops counts</span>
+									<span style="color:blue">Every drops counts</span>
 									  donate blood and make a difference 
 								</h3>
+
+								
 								
 							</div>
 						</div>

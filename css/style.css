@@ -2663,11 +2663,11 @@ i.fab.fa-linkedin, i.fab.fa-github {
 	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
 	filter: brightness(105%);
     font-weight: bold;
-	padding-top: 30px;
+	/* padding-top: 30px; */
 	position: relative;
 	width: 300px;
 	max-width: 100%;
-    height: 350px;
+    height: 180px;
 	text-align: center;
 }
 
