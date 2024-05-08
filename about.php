@@ -56,11 +56,11 @@ include('includes/config.php');
 
 	  <div class="about-team">	
 		<div class="card-container">
-			<!-- <span class="pro">MEMBER</span> -->
-			<!-- <img class="round  image-member" src="images\WhatsApp Image 2024-02-14 at 21.39.53_58d377ca.jpg" alt="user" /> -->
-			<h3>Hardik Kumar</h3>
-			<h6>Dehradun</h6>
-			<p class="para">The NIE- Ise branch</p>
+			<span class="pro">MEMBER</span>
+			 <img class="round  image-member" src="images\WhatsApp Image 2024-02-14 at 21.39.53_58d377ca.jpg" alt="user" />
+			<h3>Sujal Payal </h3>
+			<h6>Delhi</h6>
+			<p class="para">The NIE- CSE branch</p>
 			<div class="buttons">
 				<br>
 				<a href="https://www.linkedin.com/in/sujal-payal-887656258/">
@@ -71,24 +71,11 @@ include('includes/config.php');
 			</div>
 		</div>
 		<div class="card-container">
-			<!-- <span class="pro">MEMBER</span>
-			<img class="round image-member" src="images\sathvik.jpg" alt="user" /> -->
-			<h3>Lalitha KS</h3>
+			 <span class="pro">MEMBER</span>
+			<img class="round image-member" src="images\sathvik.jpg" alt="user" /> 
+			<h3>Sathvik</h3>
 			<h6>Bengaluru</h6>
-			<p class="para">The NIE- Ise branch</p>
-			<div class="buttons">
-			<br>
-				<button class="primary">
-					Message
-				</button>
-			</div>
-		</div>
-		<div class="card-container">
-			<!-- <span class="pro">MEMBER</span>
-			<img class="round image-member" src="images\sathvik.jpg" alt="user" /> -->
-			<h3>K Karthik</h3>
-			<h6>Bengaluru</h6>
-			<p class="para">The NIE- Ise branch</p>
+			<p class="para">The NIE- CSE branch</p>
 			<div class="buttons">
 			<br>
 				<button class="primary">
